@@ -6,8 +6,21 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <!-- Meta Description -->
+    <meta name="description" content="Welcome to RCCG Upper Room Assembly Kelowna BC. Join us for uplifting worship services, community events, and spiritual growth. Everyone is welcome!">
+    
+    <!-- Meta Keywords -->
+    <meta name="keywords" content="RCCG, Upper Room Assembly, URA, Kelowna, church, worship, community, spirituality, events, prayer, fellowship, Christian">
+    
+    <!-- Author Meta Tag -->
+    <meta name="author" content="RCCG Upper Room Assembly Kelowna BC">
+
+    <!-- Open Graph Meta Tags for Social Media -->
+    <meta property="og:title" content="RCCG Upper Room Assembly Kelowna BC">
+    <meta property="og:description" content="Join RCCG Upper Room Assembly Kelowna for inspiring worship, community engagement, and spiritual development. Everyone is welcome!">
+    <meta property="og:image" content="/images/church2.jpg"> <!-- Add an image URL for social media sharing -->
+    <meta property="og:url" content="https://www.rccgurakelowna.com">
+    <meta property="og:type" content="website">
 
     <link rel="icon" href="/images/logos/rccg_ura_logo.png" type="image/png">
     <title>RCCG Upper Room Assembly Kelowna BC</title>
