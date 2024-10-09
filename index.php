@@ -22,47 +22,47 @@
     <meta property="og:url" content="https://www.rccgurakelowna.com">
     <meta property="og:type" content="website">
 
-    <link rel="icon" href="/images/logos/rccg_ura_logo.png" type="image/png">
+    <link rel="icon"  href="images/logos/rccg_ura_logo.png" type="image/png">
     <title>RCCG Upper Room Assembly Kelowna BC</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="/asset/css/bootstrap.min.css" rel="stylesheet">
+    <link  href="asset/css/bootstrap.min.css" rel="stylesheet">
     
     <!-- Font Awesome CSS -->
-    <link href="/css/font-awesome.min.css" rel="stylesheet">
+    <link  href="css/font-awesome.min.css" rel="stylesheet">
     
     
     <!-- Animate CSS -->
-    <link href="/css/animate.css" rel="stylesheet" >
+    <link  href="css/animate.css" rel="stylesheet" >
     
     <!-- Owl-Carousel -->
-    <link rel="stylesheet" href="/css/owl.carousel.css" >
-    <link rel="stylesheet" href="/css/owl.theme.css" >
-    <link rel="stylesheet" href="/css/owl.transitions.css" >
+    <link rel="stylesheet"  href="css/owl.carousel.css" >
+    <link rel="stylesheet"  href="css/owl.theme.css" >
+    <link rel="stylesheet"  href="css/owl.transitions.css" >
 
     <!-- Custom CSS /assets/css/style.css --> 
-    <link href="/css/style.css" rel="stylesheet">
-    <link href="/css/responsive.css" rel="stylesheet">
+    <link  href="css/style.css" rel="stylesheet">
+    <link  href="css/responsive.css" rel="stylesheet">
     
     <!-- Colors CSS -->
-    <link rel="stylesheet" type="text/css" href="/css/color/green.css">
+    <link rel="stylesheet" type="text/css"  href="css/color/green.css">
     
     
     
     <!-- Colors CSS -->
-    <link rel="stylesheet" type="text/css" href="/css/color/green.css" title="green">
-    <link rel="stylesheet" type="text/css" href="/css/color/light-red.css" title="light-red">
-    <link rel="stylesheet" type="text/css" href="/css/color/blue.css" title="blue">
-    <link rel="stylesheet" type="text/css" href="/css/color/light-blue.css" title="light-blue">
-    <link rel="stylesheet" type="text/css" href="/css/color/yellow.css" title="yellow">
-    <link rel="stylesheet" type="text/css" href="/css/color/light-green.css" title="light-green">
+    <link rel="stylesheet" type="text/css"  href="css/color/green.css" title="green">
+    <link rel="stylesheet" type="text/css"  href="css/color/light-red.css" title="light-red">
+    <link rel="stylesheet" type="text/css"  href="css/color/blue.css" title="blue">
+    <link rel="stylesheet" type="text/css"  href="css/color/light-blue.css" title="light-blue">
+    <link rel="stylesheet" type="text/css"  href="css/color/yellow.css" title="yellow">
+    <link rel="stylesheet" type="text/css"  href="css/color/light-green.css" title="light-green">
 
     <!-- Custom Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     
     
     <!-- Modernizer js -->
-    <script src="/js/modernizr.custom.js"></script>
+    <script  src="js/modernizr.custom.js"></script>
 
     
     <!--[if lt IE 9]>
@@ -106,7 +106,7 @@
         <span class="icon-bar"></span>
     </button>
     <a class="navbar-brand page-scroll" href="#page-top">
-        <img src="/images/logos/rccg_ura_logo.png" alt="Logo" style="height: 90px;">
+        <img  src="images/logos/rccg_ura_logo.png" alt="Logo" style="height: 90px;">
     </a>
 </div>
 
@@ -172,7 +172,7 @@
             <!-- Carousel inner -->
             <div class="carousel-inner">
                 <div class="item active">
-                    <img class="img-responsive" src="/images/church2.jpg" alt="slider">
+                    <img class="img-responsive"  src="images/church2.jpg" alt="slider">
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
                             <h1 class="animated3">
@@ -186,7 +186,7 @@
                 <!--/ Carousel item end -->
                 
                 <div class="item">
-                    <img class="img-responsive" src="/images/header-back.png" alt="slider">
+                    <img class="img-responsive"  src="images/header-back.png" alt="slider">
                     
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
@@ -311,7 +311,7 @@
                         <ul id="portfolio-list">
                             <li>
                                 <div class="portfolio-item">
-                                    <img src="/images/portfolio/img1.jpg" class="img-responsive" alt="" />
+                                    <img  src="images/portfolio/img1.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
                                         <h4>Portfolio Title</h4>
                                         <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
@@ -321,7 +321,7 @@
                             </li>
                             <li>
                                 <div class="portfolio-item">
-                                    <img src="/images/portfolio/img2.jpg" class="img-responsive" alt="" />
+                                    <img  src="images/portfolio/img2.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
                                         <h4>Portfolio Title</h4>
                                         <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
@@ -331,7 +331,7 @@
                             </li>
                             <li>
                                 <div class="portfolio-item">
-                                    <img src="/images/portfolio/img3.jpg" class="img-responsive" alt="" />
+                                    <img  src="images/portfolio/img3.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
                                         <h4>Portfolio Title</h4>
                                         <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
@@ -341,7 +341,7 @@
                             </li>
                             <li>
                                 <div class="portfolio-item">
-                                    <img src="/images/portfolio/img4.jpg" class="img-responsive" alt="" />
+                                    <img  src="images/portfolio/img4.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
                                         <h4>Portfolio Title</h4>
                                         <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
@@ -351,7 +351,7 @@
                             </li>
                             <li>
                                 <div class="portfolio-item">
-                                    <img src="/images/portfolio/img5.jpg" class="img-responsive" alt="" />
+                                    <img  src="images/portfolio/img5.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
                                         <h4>Portfolio Title</h4>
                                         <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
@@ -361,7 +361,7 @@
                             </li>
                             <li>
                                 <div class="portfolio-item">
-                                    <img src="/images/portfolio/img6.jpg" class="img-responsive" alt="" />
+                                    <img  src="images/portfolio/img6.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
                                         <h4>Portfolio Title</h4>
                                         <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
@@ -399,10 +399,10 @@
                     <div class="row">
                         
                         <div class="col-md-6">
-                            <img src="/images/portfolio/img1.jpg" class="img-responsive" alt="..">
+                            <img  src="images/portfolio/img1.jpg" class="img-responsive" alt="..">
                         </div>
                         <div class="col-md-6">
-                            <img src="/images/portfolio/img1.jpg" class="img-responsive" alt="..">
+                            <img  src="images/portfolio/img1.jpg" class="img-responsive" alt="..">
                         </div>
                         
                     </div><!-- /.row -->
@@ -427,7 +427,7 @@
                 
                 <div class="col-md-4">
                     <div class="welcome-section text-center">
-                        <img src="/images/about-01.jpg" class="img-responsive" alt="..">
+                        <img  src="images/about-01.jpg" class="img-responsive" alt="..">
                         <h4>Office Philosophy</h4>
                         <div class="border"></div>
                         <p>Duis aute irure dolor in reprehen derit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Lorem reprehenderit</p>
@@ -436,7 +436,7 @@
                 
                 <div class="col-md-4">
                     <div class="welcome-section text-center">
-                        <img src="/images/about-02.jpg" class="img-responsive" alt="..">
+                        <img  src="images/about-02.jpg" class="img-responsive" alt="..">
                         <h4>Office Mission & Vission</h4>
                         <div class="border"></div>
                         <p>Duis aute irure dolor in reprehen derit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Lorem reprehenderit</p>
@@ -445,7 +445,7 @@
                 
                 <div class="col-md-4">
                     <div class="welcome-section text-center">
-                        <img src="/images/about-03.jpg" class="img-responsive" alt="..">
+                        <img  src="images/about-03.jpg" class="img-responsive" alt="..">
                         <h4>Office Value & Rules</h4>
                         <div class="border"></div>
                         <p>Duis aute irure dolor in reprehen derit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Lorem reprehenderit</p>
@@ -537,13 +537,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img src="/images/about-01.jpg" alt="">
+                                <img  src="images/about-01.jpg" alt="">
                             </div>
                             <div class="item">
-                                <img src="/images/about-02.jpg" alt="">
+                                <img  src="images/about-02.jpg" alt="">
                             </div>
                             <div class="item">
-                                <img src="/images/about-03.jpg" alt="">
+                                <img  src="images/about-03.jpg" alt="">
                             </div>
     
                         </div>
@@ -727,7 +727,7 @@
                                 <div class="our-team">
 
                                     <div class="team-member">
-                                        <img src="/images/team/manage-1.png" class="img-responsive" alt="">
+                                        <img  src="images/team/manage-1.png" class="img-responsive" alt="">
                                         <div class="team-details">
                                             <h4>John Doe</h4>
                                             <p>Founder & Director</p>
@@ -742,7 +742,7 @@
                                     </div>
 
                                     <div class="team-member">
-                                        <img src="/images/team/manage-2.png" class="img-responsive" alt="">
+                                        <img  src="images/team/manage-2.png" class="img-responsive" alt="">
                                         <div class="team-details">
                                             <h4>John Doe</h4>
                                             <p>Founder & Director</p>
@@ -757,7 +757,7 @@
                                     </div>
 
                                     <div class="team-member">
-                                        <img src="/images/team/manage-3.png" class="img-responsive" alt="">
+                                        <img  src="images/team/manage-3.png" class="img-responsive" alt="">
                                         <div class="team-details">
                                             <h4>John Doe</h4>
                                             <p>Founder & Director</p>
@@ -772,7 +772,7 @@
                                     </div>    
 
                                     <div class="team-member">
-                                        <img src="/images/team/manage-4.png" class="img-responsive" alt="">
+                                        <img  src="images/team/manage-4.png" class="img-responsive" alt="">
                                         <div class="team-details">
                                             <h4>John Doe</h4>
                                             <p>Founder & Director</p>
@@ -787,7 +787,7 @@
                                     </div>
 
                                     <div class="team-member">
-                                        <img src="/images/team/manage-1.png" class="img-responsive" alt="">
+                                        <img  src="images/team/manage-1.png" class="img-responsive" alt="">
                                         <div class="team-details">
                                             <h4>John Doe</h4>
                                             <p>Founder & Director</p>
@@ -802,7 +802,7 @@
                                     </div>
 
                                     <div class="team-member">
-                                        <img src="/images/team/manage-2.png" class="img-responsive" alt="">
+                                        <img  src="images/team/manage-2.png" class="img-responsive" alt="">
                                         <div class="team-details">
                                             <h4>John Doe</h4>
                                             <p>Founder & Director</p>
@@ -1016,7 +1016,7 @@
                 <div class="latest-news">
                     <div class="col-md-12">
                         <div class="latest-post">
-                            <img src="/images/about-01.jpg" class="img-responsive" alt="">
+                            <img  src="images/about-01.jpg" class="img-responsive" alt="">
                             <h4><a href="#">Standard Post with Image</a></h4>
                             <div class="post-details">
                                 <span class="date"><strong>31</strong> <br>Dec , 2014</span>
@@ -1028,7 +1028,7 @@
                     </div>
                     <div class="col-md-12">
                         <div class="latest-post">
-                            <img src="/images/about-02.jpg" class="img-responsive" alt="">
+                            <img  src="images/about-02.jpg" class="img-responsive" alt="">
                             <h4><a href="#">Standard Post with Image</a></h4>
                             <div class="post-details">
                                 <span class="date"><strong>17</strong> <br>Feb , 2014</span>
@@ -1040,7 +1040,7 @@
                     </div>
                     <div class="col-md-12">
                         <div class="latest-post">
-                            <img src="/images/about-03.jpg" class="img-responsive" alt="">
+                            <img  src="images/about-03.jpg" class="img-responsive" alt="">
                             <h4><a href="#">Standard Post with Image</a></h4>
                             <div class="post-details">
                                 <span class="date"><strong>08</strong> <br>Aug , 2014</span>
@@ -1052,7 +1052,7 @@
                     </div>
                     <div class="col-md-12">
                         <div class="latest-post">
-                            <img src="/images/about-01.jpg" class="img-responsive" alt="">
+                            <img  src="images/about-01.jpg" class="img-responsive" alt="">
                             <h4><a href="#">Standard Post with Image</a></h4>
                             <div class="post-details">
                                 <span class="date"><strong>08</strong> <br>Aug , 2014</span>
@@ -1064,7 +1064,7 @@
                     </div>
                     <div class="col-md-12">
                         <div class="latest-post">
-                            <img src="/images/about-02.jpg" class="img-responsive" alt="">
+                            <img  src="images/about-02.jpg" class="img-responsive" alt="">
                             <h4><a href="#">Standard Post with Image</a></h4>
                             <div class="post-details">
                                 <span class="date"><strong>08</strong> <br>Aug , 2014</span>
@@ -1076,7 +1076,7 @@
                     </div>
                     <div class="col-md-12">
                         <div class="latest-post">
-                            <img src="/images/about-03.jpg" class="img-responsive" alt="">
+                            <img  src="images/about-03.jpg" class="img-responsive" alt="">
                             <h4><a href="#">Standard Post with Image</a></h4>
                             <div class="post-details">
                                 <span class="date"><strong>08</strong> <br>Aug , 2014</span>
@@ -1105,7 +1105,7 @@
                 <!-- Testimonial 1 -->
                 <div class="testimonials item">
                     <div class="testimonial-content">
-                        <img src="/images/testimonial/face_1.png" alt="" >
+                        <img  src="images/testimonial/face_1.png" alt="" >
                         <div class="testimonial-author">
                             <div class="author">John Doe</div>
                             <div class="designation">Organization Founder</div>
@@ -1116,7 +1116,7 @@
                 <!-- Testimonial 2 -->
                 <div class="testimonials item">
                     <div class="testimonial-content">
-                        <img src="/images/testimonial/face_2.png" alt="" >
+                        <img  src="images/testimonial/face_2.png" alt="" >
                         <div class="testimonial-author">
                             <div class="author">Jane Doe</div>
                             <div class="designation">Lead Developer</div>
@@ -1127,7 +1127,7 @@
                 <!-- Testimonial 3 -->
                 <div class="testimonials item">
                     <div class="testimonial-content">
-                        <img src="/images/testimonial/face_3.png" alt="" >
+                        <img  src="images/testimonial/face_3.png" alt="" >
                         <div class="testimonial-author">
                             <div class="author">John Doe</div>
                             <div class="designation">Honorable Customer</div>
@@ -1158,43 +1158,43 @@
                 <div class="clients">
                     
                     <div class="col-md-12">
-                        <img src="/images/logos/themeforest.jpg" class="img-responsive" alt="...">
+                        <img  src="images/logos/themeforest.jpg" class="img-responsive" alt="...">
                     </div>
                     
                     <div class="col-md-12">
-                        <img src="/images/logos/creative-market.jpg" class="img-responsive" alt="...">
+                        <img  src="images/logos/creative-market.jpg" class="img-responsive" alt="...">
                     </div>
                     
                     <div class="col-md-12">
-                        <img src="/images/logos/designmodo.jpg" class="img-responsive" alt="...">
+                        <img  src="images/logos/designmodo.jpg" class="img-responsive" alt="...">
                     </div>
                     
                     <div class="col-md-12">
-                        <img src="/images/logos/creative-market.jpg" class="img-responsive" alt="...">
+                        <img  src="images/logos/creative-market.jpg" class="img-responsive" alt="...">
                     </div>
                     
                     <div class="col-md-12">
-                        <img src="/images/logos/microlancer.jpg" class="img-responsive" alt="...">
+                        <img  src="images/logos/microlancer.jpg" class="img-responsive" alt="...">
                     </div>
                     
                     <div class="col-md-12">
-                        <img src="/images/logos/themeforest.jpg" class="img-responsive" alt="...">
+                        <img  src="images/logos/themeforest.jpg" class="img-responsive" alt="...">
                     </div>
                     
                     <div class="col-md-12">
-                        <img src="/images/logos/microlancer.jpg" class="img-responsive" alt="...">
+                        <img  src="images/logos/microlancer.jpg" class="img-responsive" alt="...">
                     </div>
                     
                     <div class="col-md-12">
-                        <img src="/images/logos/designmodo.jpg" class="img-responsive" alt="...">
+                        <img  src="images/logos/designmodo.jpg" class="img-responsive" alt="...">
                     </div>
                     
                     <div class="col-md-12">
-                        <img src="/images/logos/creative-market.jpg" class="img-responsive" alt="...">
+                        <img  src="images/logos/creative-market.jpg" class="img-responsive" alt="...">
                     </div>
                     
                     <div class="col-md-12">
-                        <img src="/images/logos/designmodo.jpg" class="img-responsive" alt="...">
+                        <img  src="images/logos/designmodo.jpg" class="img-responsive" alt="...">
                     </div>
                     
                 </div>
@@ -1317,27 +1317,27 @@
     
 
     <!-- jQuery Version 2.1.1 -->
-    <script src="/js/jquery-2.1.1.min.js"></script>
+    <script  src="js/jquery-2.1.1.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="/asset/js/bootstrap.min.js"></script>
+    <script  src="asset/js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="/js/jquery.easing.1.3.js"></script>
-    <script src="/js/classie.js"></script>
-    <script src="/js/count-to.js"></script>
-    <script src="/js/jquery.appear.js"></script>
-    <script src="/js/cbpAnimatedHeader.js"></script>
-    <script src="/js/owl.carousel.min.js"></script>
-	<script src="/js/jquery.fitvids.js"></script>
-	<script src="/js/styleswitcher.js"></script>
+    <script  src="js/jquery.easing.1.3.js"></script>
+    <script  src="js/classie.js"></script>
+    <script  src="js/count-to.js"></script>
+    <script  src="js/jquery.appear.js"></script>
+    <script  src="js/cbpAnimatedHeader.js"></script>
+    <script  src="js/owl.carousel.min.js"></script>
+	<script  src="js/jquery.fitvids.js"></script>
+	<script  src="js/styleswitcher.js"></script>
 
     <!-- Contact Form JavaScript -->
-    <script src="/js/jqBootstrapValidation.js"></script>
-    <script src="/js/contact_me.js"></script>
+    <script  src="js/jqBootstrapValidation.js"></script>
+    <script  src="js/contact_me.js"></script>
 
     <!-- Custom Theme JavaScript -->
-    <script src="/js/script.js"></script>
+    <script  src="js/script.js"></script>
 
 </body>
 
