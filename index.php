@@ -177,7 +177,7 @@
                             <h1 class="animated3">
                             <span style="line-height: 1; font-size: 55px;">Welcome to <strong>RCCG UPPER ROOM ASSEMBLY</strong><br/>Kelowna, BC.</span>
                             </h1>
-                            <p class="animated2">A place to grow spiritually, worship authentically, and connect in fellowship.</p>
+                            <p class="animated2">A place of quality worship……</p>
                             <a href="#about-us" class="page-scroll btn btn-primary animated1">Learn More</a>
                         </div>
                     </div>
@@ -309,10 +309,10 @@
                     <ul id="portfolio-list">
                         <li>
                             <div class="portfolio-item">
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/Lp6mOL_-bvU" frameborder="0" allowfullscreen></iframe>
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/uT9hqEjsHOA" frameborder="0" allowfullscreen></iframe>
                                 <div class="portfolio-caption">
-                                    <h4>The Simple Rules of Marriage Part 1</h4>
-                                    <a href="https://www.youtube.com/watch?v=Lp6mOL_-bvU" class="link-2" target="_blank"><i class="fa fa-link"></i></a>
+                                    <h4>The Power of Planning</h4>
+                                    <a href="https://www.youtube.com/watch?v=uT9hqEjsHOA" class="link-2" target="_blank"><i class="fa fa-link"></i></a>
                                 </div>
                             </div>
                         </li>
@@ -327,10 +327,10 @@
                         </li>
                         <li>
                             <div class="portfolio-item">
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/C0p5rzZpLhs?start=10" frameborder="0" allowfullscreen></iframe>
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/bYX0U85l07I?start=10" frameborder="0" allowfullscreen></iframe>
                                 <div class="portfolio-caption">
-                                    <h4>Building Trust in Relationships</h4>
-                                    <a href="https://www.youtube.com/watch?v=C0p5rzZpLhs&t=10s" class="link-2" target="_blank"><i class="fa fa-link"></i></a>
+                                    <h4>The Power of planning Part 2</h4>
+                                    <a href="https://www.youtube.com/watch?v=bYX0U85l07I=10s" class="link-2" target="_blank"><i class="fa fa-link"></i></a>
                                 </div>
                             </div>
                         </li>
@@ -371,7 +371,7 @@
                         <img  src="images/about-02.jpg" class="img-responsive" alt="..">
                         <h4>Our Mission & Vision</h4>
                         <div class="border"></div>
-                        <p>Our mission is to spread the love of Christ and make disciples of all nations. Our vision is to be a beacon of hope and a place of refuge for all who seek God.</p>
+                        <p>We will be a beacon of hope, sharing the good news and demonstrating God’s Love and Power to all in our city and around the world.</p>
                     </div>
                 </div>
                 
@@ -418,8 +418,8 @@
 </section>
 
 <script>
-    // Initialize the map
-    var map = L.map('map').setView([49.8822, -119.4604], 15); // Coordinates for Ramada Hotel Kelowna
+    // Initialize the map 
+    var map = L.map('map').setView([49.88522758315881, -119.42912812760528], 17); // Coordinates for Best Western Plus Kelowna Hotel & Suites
     
     // Add OpenStreetMap tiles
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -428,8 +428,8 @@
     }).addTo(map);
     
     // Add a marker
-    L.marker([49.8822, -119.4604]).addTo(map)
-        .bindPopup('Ramada Hotel, Cedar Hall<br>2170 Harvey Ave, Kelowna, BC')
+    L.marker([49.88522758315881, -119.42912812760528]).addTo(map)
+        .bindPopup('Best Western Plus Kelowna Hotel & Suites<br>2402 Hwy 97 N, Kelowna, BC V1X 4J1, Canada')
         .openPopup();
 </script>
 
@@ -548,7 +548,7 @@
                       <div class="counter-item">
                         <i class="fa fa-heart"></i>
                         <h5>Prayer Meeting</h5>                             
-                        <h5>Friday 7:00 PM - 8:30 PM</h5>
+                        <h5>Every 3rd Friday 7:00 PM - 8:30 PM</h5>
                       </div>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-3">
@@ -738,7 +738,7 @@
                         <ul>
                             <li><strong>E-mail :</strong> upper.roomkelowna@gmail.com</li>
                             <li><strong>Phone :</strong> +1 236-338-5202</li>
-                            <li><strong>Address :</strong> Ramada Hotel, Cedar Hall. 2170 Harvey Ave., Kelowna, BC, Canada, V1Y 6G8</li>
+                            <li><strong>Address :</strong> Best Western Plus Kelowna Hotel & Suites, 2402 Hwy 97 N, Kelowna, BC V1X 4J1, Canada</li>
                         </ul>
                     </div>
                 </div>
@@ -748,7 +748,7 @@
                         <ul>
                             <li><strong>Sunday Service :</strong> 10:00 AM - 12:00 PM</li>
                             <li><strong>Bible Study :</strong> Wednesday 7:00 PM - 8:30 PM</li>
-                            <li><strong>Prayer Meeting :</strong> Friday 7:00 PM - 8:30 PM</li>
+                            <li><strong>Prayer Meeting :</strong> Every 3rd Friday 7:00 PM - 8:30 PM</li>
                             <li><strong>Youth Fellowship :</strong> Saturday 5:00 PM - 6:30 PM</li>
                         </ul>
                     </div>
