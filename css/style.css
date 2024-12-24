@@ -1088,8 +1088,17 @@ li {
   background: url(../images/parallax/backg_05.jpg);
   background-attachment: fixed;
   background-size: cover;
+  background-position: center;
   padding-top: 120px;
   padding-bottom: 80px;
+}
+
+@media (max-width: 768px) {
+  .fun-facts {
+    background-attachment: scroll; /* Remove fixed background for mobile */
+    background-size: auto 100%; /* Adjust background size */
+    background-position: center center; /* Ensure it's centered */
+  }
 }
 
 .counter-item {
@@ -1316,6 +1325,14 @@ li {
   //padding-bottom: 100px;
 }
 
+@media (max-width: 768px) {
+  .contact {
+    background-attachment: scroll; /* Remove fixed background for mobile */
+    background-size: auto 100%; /* Adjust background size */
+    background-position: center center; /* Ensure it's centered */
+  }
+}
+
 .contact .btn-primary {
   padding: 20px;
   font-size: 16px;
@@ -1525,6 +1542,14 @@ footer.style-1 .footer-link li {
   color: #fff;
   text-align: center;
   padding: 80px 0;
+}
+
+@media (max-width: 768px) {
+  .call-to-action {
+    background-attachment: scroll; /* Remove fixed background for mobile */
+    background-size: auto 100%; /* Adjust background size */
+    background-position: center center; /* Ensure it's centered */
+  }
 }
 
 .call-to-action h1 {
