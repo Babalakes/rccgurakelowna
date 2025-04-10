@@ -22,7 +22,7 @@
     <meta property="og:url" content="https://www.rccgurakelowna.com">
     <meta property="og:type" content="website">
 
-    <link rel="icon"  href="<?= base_url('images/logos/rccg_ura_logo.png'); ?>" type="image/png">
+    <link rel="icon"  href="images/logos/rccg_ura_logo.png" type="image/png">
     <title>RCCG Upper Room Assembly Kelowna BC</title>
 
     <!-- Bootstrap Core CSS -->
