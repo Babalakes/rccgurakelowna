@@ -10,7 +10,7 @@
     <meta name="description" content="Welcome to RCCG Upper Room Assembly Kelowna BC. Join us for uplifting worship services, community events, and spiritual growth. Everyone is welcome!">
     
     <!-- Meta Keywords -->
-    <meta name="keywords" content="RCCG, Upper Room Assembly, URA, Kelowna, church, worship, community, spirituality, events, prayer, fellowship, Christian">
+    <meta name="keywords" content="RCCG, Upper Room Assembly, URA, Kelowna, church, worship, community, spirituality, events, prayer, fellowship, Christian, Redeemed Christian Church of God">
     
     <!-- Author Meta Tag -->
     <meta name="author" content="RCCG Upper Room Assembly Kelowna BC">
@@ -22,7 +22,7 @@
     <meta property="og:url" content="https://www.rccgurakelowna.com">
     <meta property="og:type" content="website">
 
-    <link rel="icon"  href="images/logos/rccg_ura_logo.png" type="image/png">
+    <link rel="icon"  href="<?= base_url('images/logos/rccg_ura_logo.png'); ?>" type="image/png">
     <title>RCCG Upper Room Assembly Kelowna BC</title>
 
     <!-- Bootstrap Core CSS -->
@@ -419,7 +419,7 @@
 
 <script>
     // Initialize the map 
-    var map = L.map('map').setView([49.88522758315881, -119.42912812760528], 17); // Coordinates for Best Western Plus Kelowna Hotel & Suites
+    var map = L.map('map').setView([49.8812207, -119.4475390], 17); // Coordinates for 2041 Harvey Ave
     
     // Add OpenStreetMap tiles
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -428,8 +428,8 @@
     }).addTo(map);
     
     // Add a marker
-    L.marker([49.88522758315881, -119.42912812760528]).addTo(map)
-        .bindPopup('Best Western Plus Kelowna Hotel & Suites<br>2402 Hwy 97 N, Kelowna, BC V1X 4J1, Canada')
+    L.marker([49.8812207, -119.4475390]).addTo(map)
+        .bindPopup('Cedar Room<br>2401 Harvey Avenue, Kelowna, BC V1Y 6G7, Canada')
         .openPopup();
 </script>
 
@@ -738,7 +738,7 @@
                         <ul>
                             <li><strong>E-mail :</strong> upper.roomkelowna@gmail.com</li>
                             <li><strong>Phone :</strong> +1 236-338-5202</li>
-                            <li><strong>Address :</strong> Best Western Plus Kelowna Hotel & Suites, 2402 Hwy 97 N, Kelowna, BC V1X 4J1, Canada</li>
+                            <li><strong>Address :</strong> Cedar Room, 2401 Harvey Avenue, Kelowna, BC V1Y 6G7, Canada</li>
                         </ul>
                     </div>
                 </div>
